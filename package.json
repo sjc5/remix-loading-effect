@@ -1,6 +1,6 @@
 {
   "name": "@sjc5/remix-loading-effect",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Sam Cook",
   "license": "MIT",
   "description": "Super easy way to add nprogress loading bar to a Remix app.",
