@@ -1,5 +1,11 @@
 # @sjc5/remix-loading-effect
 
+## 0.0.6
+
+### Patch Changes
+
+- eeb0799: readme and package.json
+
 ## 0.0.3
 
 ### Patch Changes
