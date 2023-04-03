@@ -21,7 +21,7 @@ In your app root, or wherever you want to use the loading effect, do the followi
 
 ```ts
 import nProgress from "@sjc5/remix-loading-effect/nprogress.css"
-import { useLoadingEffect } from "@sjc5/remix-loading-effect/use-loading-effect"
+import { useLoadingEffect } from "@sjc5/remix-loading-effect"
 
 export function links() {
   return [{ rel: "stylesheet", href: nProgress }]
